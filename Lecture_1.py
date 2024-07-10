@@ -43,8 +43,16 @@ print(type(a))
 num1=100
 num2=200
 sum=num1+num2
-print(sum)
+print("Sum of Two Variables : ",sum)
 
 # ------------
 
+# Types of Operators 
+    # Arithmatic Operators : ( + , - , * , / , % , ** )
 
+a1=100
+a2=400
+print("Sum of ",a1+a2)
+print("Subtract of ",a1-a2)
+print("Multy of ",a1*a2)
+print("Division of ",a1/a2)
