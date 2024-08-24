@@ -1,0 +1,8 @@
+{
+    "name": "John",
+    "age": 25,
+    "city": "Sampleville",
+    "married": false,
+    "hobbies": ["reading", "traveling", "programming"]
+   
+  }
