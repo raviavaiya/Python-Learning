@@ -92,10 +92,14 @@
 
 
 
+
+
+
+
+
 class Account:
-    def __init__(self, balance, account_number):
+    def __init__(self, balance):
         self.__balance = balance
-        self.__account_number = account_number
     
     def  get_balance(self):
         return self.__balance
